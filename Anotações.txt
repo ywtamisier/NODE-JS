@@ -1,0 +1,18 @@
+Para entrar no NODE REPL basta digitar "node" no terminal.
+Será enviada uma mensagem de boas vindas e estaremos dentro do ambiente.
+
+Native node modules - Ferramentas
+    https://nodejs.org/docs/latest-v18.x/api/index.html
+
+Ferramentas nativas do modules
+
+
+=== NPM initi ===
+Vai trazer o pacote inicial para configurarmos o package.json
+Onde encontrar os packages?
+npmjs.com
+
+
+Podemos instalar varios de uma vez com npm i pagckage1 pagckage2 pagckage3
+
+Basta separar por espaço.
