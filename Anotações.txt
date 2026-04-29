@@ -16,3 +16,7 @@ npmjs.com
 Podemos instalar varios de uma vez com npm i pagckage1 pagckage2 pagckage3
 
 Basta separar por espaço.
+
+npm install <something>.  //https://www.npmjs.com/
+
+Importante adicionar o "type":"module" no package.json para poder usar import (normalmente apos o "main")

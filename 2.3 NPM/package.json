@@ -1,5 +1,5 @@
 {
-  "name": "learning-npm",
+  "name": "aprendendo_npm",
   "version": "1.0.0",
   "description": "I'm learning about npm, and this is the first try",
   "main": "index.js",
@@ -16,5 +16,10 @@
   "dependencies": {
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Aprendendo",
+    "NPM"
+  ]
 }
