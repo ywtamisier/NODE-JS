@@ -14,12 +14,14 @@
   "author": "Youry Tamisier",
   "license": "ISC",
   "dependencies": {
+    "inquirer": "^12.11.1",
+    "qr-image": "^3.2.0",
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
   },
-  "devDependencies": {},
   "keywords": [
     "Aprendendo",
     "NPM"
-  ]
+  ],
+  "devDependencies": {}
 }

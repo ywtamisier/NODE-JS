@@ -1,4 +1,4 @@
-//var generateName = require('sillyname');
+//var generateName = require('sillyname');  -> assim se faz caso nao adicione o "type" no package.
 
 import generateName from 'sillyname';
 var nomeEsquisito = generateName();
